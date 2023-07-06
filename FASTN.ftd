@@ -7,9 +7,10 @@ favicon: /-/gautamjaiswal22.github.io/gautamjaiswal/favicon.ico
 -- fastn.dependency: fastn-community.github.io/doc-site as ds
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: gautamjaiswal22.github.io/doc-site as ds
--- fastn.dependency: .github.io/footer
+-- fastn.dependency: ayushsoni1010.github.io/ui-packages as package
 
 -- fastn.auto-import: ds
+-- fastn.auto-import: package
 -- fastn.auto-import: gautamjaiswal22.github.io/gautamjaiswal/FASTN/my-ds
 -- fastn.auto-import: gautamjaiswal22.github.io/gautamjaiswal/assets
 
